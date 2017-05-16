@@ -1,3 +1,5 @@
 <?php
-	echo "hoi Kevin, dit is een testjes";
+
+	echo "hoi, hola wat is dat hier";
+
 ?>
