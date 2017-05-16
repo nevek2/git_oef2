@@ -1,3 +1,3 @@
 <?php
-	echo "hoi ";
+	echo "hoi, hola wat is dat hier";
 ?>
